@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    overflow: auto;
+}
+html::-webkit-scrollbar{
+    display: none;
+}
+
+@keyframes dialog_animation{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+.dialog{
+    animation-name: dialog_animation;
+    animation-duration: .5s;
+}
