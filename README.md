@@ -1,4 +1,4 @@
-[image1](https://raw.githubusercontent.com/enesgkky/list-app/main/image-1.png)
+![image1](https://raw.githubusercontent.com/enesgkky/list-app/main/image-1.png)
 
 # Getting Started with Create React App
 
